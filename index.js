@@ -80,7 +80,21 @@
 // }
 // console.log(calcFactorial(5))
 
-// Q8:
+// Q9:
+// function calcFactorial(num){
+// if(num!=0){
+//     let multiplier=1;
+//     while(num>0){
+//     multiplier*=num;
+//     num--
+//     }
+//     return multiplier;
+// }
+// return 1;
+// }
+// console.log(calcFactorial(5))
+
+// Q10:
 // function sortNumbers(arr){
 //   for (let i = 0; i < arr.length - 1; i++) {
 //     for (let j = i + 1; j < arr.length; j++) {
@@ -112,11 +126,7 @@
 // }
 // console.log(findMissing([2,4,1,3,6,7,8]))
 
-// Q13:
-// function checkOccurence(haystack,needle){
 
-// }
-// console.log(checkOccurence("butsad","sad"))
 
 // Q13:
 // function getPositonArray(array, k) {
