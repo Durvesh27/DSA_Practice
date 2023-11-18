@@ -1,1 +1,1 @@
-# DSA_Test_Awdiz
+# DSA_Practice
